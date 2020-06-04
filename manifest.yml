@@ -1,0 +1,7 @@
+---
+applications:
+ - name: OrquestradorbawNovo
+   random-route: true
+   path: target/rest-http-openliberty.jar
+   memory: 256M
+   instances: 1
